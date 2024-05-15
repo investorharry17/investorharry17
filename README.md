@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div align="center">
+  <img src="https://harrison-port.netlify.app/assets/me-CXu4vAaw.webp" width="150" />
+</div>
 
 <!--
 **investorharry17/investorharry17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
